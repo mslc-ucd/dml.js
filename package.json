@@ -1,0 +1,27 @@
+{
+  "name": "dml.js",
+  "version": "0.0.1",
+  "description": "A declarative machine learning module built for JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mslc-ucd/dml.js.git"
+  },
+  "contributors": [
+    "W. Max Lees <max.lees@gmail.com>"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mslc-ucd/dml.js/issues"
+  },
+  "homepage": "https://github.com/mslc-ucd/dml.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "machinelearning"
+  ],
+  "author": "W. Max Lees <max.lees@gmail.com> (https://github.com/Wmaxlees)"
+}
